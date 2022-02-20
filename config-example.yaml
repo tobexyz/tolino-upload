@@ -1,0 +1,13 @@
+client:
+  tolino1:
+    hardware_id: your_hardware_id_from_webreader
+    partner_id: 3
+    tokens:
+      access_token: your_access_token
+      refresh_token: your_refresh_token
+  tolino2:
+    hardware_id: your_hardware_id_from_webreader
+    partner_id: 3
+    tokens:
+      access_token: your_access_token
+      refresh_token: your_refresh_token

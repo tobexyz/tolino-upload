@@ -1,0 +1,6 @@
+*.orig
+.directory
+.idea
+*.bak
+*.un~
+*.iml
